@@ -1,0 +1,1370 @@
+﻿<aiml >
+<category>
+<pattern>WHAT IS 0 IN BINARY NUMBER</pattern>
+<template>only 0.</template>
+</category>
+<category>
+<pattern>IN BINARY NUMBERING WHAT IS NUMBER 0</pattern>
+<template>it is 0.</template>
+</category>
+<category>
+<pattern>WHAT IS 0 IN BINARY</pattern>
+<template>we can write it as 0.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS 0</pattern>
+<template>0.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 0 IN BINARY</pattern>
+<template>here, it is 0.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS THE NUMBER 0</pattern>
+<template>just 0.</template>
+</category>
+<category>
+<pattern>WHAT IS NUMBER 0 IN BINARY</pattern>
+<template>it's 0.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS NUMBER 0</pattern>
+<template>it is 0.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 0 IN BINARY NUMBER </pattern>
+<template>it is 0.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 0 IN BINARY </pattern>
+<template>0 only.</template>
+</category>
+<category>
+<pattern>IN BINARY NUMBER WHAT IS THE NUMBER 0</pattern>
+<template>it will be 0.</template>
+</category>
+<category>
+<pattern>WHAT IS 1 IN BINARY NUMBER</pattern>
+<template>only 0001.</template>
+</category>
+<category>
+<pattern>IN BINARY NUMBERING WHAT IS NUMBER 1</pattern>
+<template>it is 0001.</template>
+</category>
+<category>
+<pattern>WHAT IS 1 IN BINARY</pattern>
+<template>we can write it as 0001.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS 1</pattern>
+<template>0001.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 1 IN BINARY</pattern>
+<template>here, it is 0001.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS THE NUMBER 1</pattern>
+<template>just 0001.</template>
+</category>
+<category>
+<pattern>WHAT IS NUMBER 1 IN BINARY</pattern>
+<template>it's 0001.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS NUMBER 1</pattern>
+<template>it is 0001.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 1 IN BINARY NUMBER </pattern>
+<template>it is 0001.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 1 IN BINARY </pattern>
+<template>0001 only.</template>
+</category>
+<category>
+<pattern>IN BINARY NUMBER WHAT IS THE NUMBER 1</pattern>
+<template>it will be 0001.</template>
+</category>
+<category>
+<pattern>WHAT IS 2 IN BINARY NUMBER</pattern>
+<template>only 0010.</template>
+</category>
+<category>
+<pattern>IN BINARY NUMBERING WHAT IS NUMBER 2</pattern>
+<template>it is 0010.</template>
+</category>
+<category>
+<pattern>WHAT IS 2 IN BINARY</pattern>
+<template>we can write it as 0010.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS 2</pattern>
+<template>0010.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 2 IN BINARY</pattern>
+<template>here, it is 0010.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS THE NUMBER 2</pattern>
+<template>just 0010.</template>
+</category>
+<category>
+<pattern>WHAT IS NUMBER 2 IN BINARY</pattern>
+<template>it's 0010.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS NUMBER 2</pattern>
+<template>it is 0010.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 2 IN BINARY NUMBER </pattern>
+<template>it is 0010.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 2 IN BINARY </pattern>
+<template>0010 only.</template>
+</category>
+<category>
+<pattern>IN BINARY NUMBER WHAT IS THE NUMBER 2</pattern>
+<template>it will be 0010.</template>
+</category>
+<category>
+<pattern>WHAT IS 3 IN BINARY NUMBER</pattern>
+<template>only 0011.</template>
+</category>
+<category>
+<pattern>IN BINARY NUMBERING WHAT IS NUMBER 3</pattern>
+<template>it is 0011.</template>
+</category>
+<category>
+<pattern>WHAT IS 3 IN BINARY</pattern>
+<template>we can write it as 0011.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS 3</pattern>
+<template>0011.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 3 IN BINARY</pattern>
+<template>here, it is 0011.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS THE NUMBER 3</pattern>
+<template>just 0011.</template>
+</category>
+<category>
+<pattern>WHAT IS NUMBER 3 IN BINARY</pattern>
+<template>it's 0011.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS NUMBER 3</pattern>
+<template>it is 0011.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 3 IN BINARY NUMBER </pattern>
+<template>it is 0011.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 3 IN BINARY </pattern>
+<template>0011 only.</template>
+</category>
+<category>
+<pattern>IN BINARY NUMBER WHAT IS THE NUMBER 3</pattern>
+<template>it will be 0011.</template>
+</category>
+<category>
+<pattern>WHAT IS 4 IN BINARY NUMBER</pattern>
+<template>only 0100.</template>
+</category>
+<category>
+<pattern>IN BINARY NUMBERING WHAT IS NUMBER 4</pattern>
+<template>it is 0100.</template>
+</category>
+<category>
+<pattern>WHAT IS 4 IN BINARY</pattern>
+<template>we can write it as 0100.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS 4</pattern>
+<template>0100.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 4 IN BINARY</pattern>
+<template>here, it is 0100.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS THE NUMBER 4</pattern>
+<template>just 0100.</template>
+</category>
+<category>
+<pattern>WHAT IS NUMBER 4 IN BINARY</pattern>
+<template>it's 0100.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS NUMBER 4</pattern>
+<template>it is 0100.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 4 IN BINARY NUMBER </pattern>
+<template>it is 0100.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 4 IN BINARY </pattern>
+<template>0100 only.</template>
+</category>
+<category>
+<pattern>IN BINARY NUMBER WHAT IS THE NUMBER 4</pattern>
+<template>it will be 0100.</template>
+</category>
+<category>
+<pattern>WHAT IS 5 IN BINARY NUMBER</pattern>
+<template>only 0101.</template>
+</category>
+<category>
+<pattern>IN BINARY NUMBERING WHAT IS NUMBER 5</pattern>
+<template>it is 0101.</template>
+</category>
+<category>
+<pattern>WHAT IS 5 IN BINARY</pattern>
+<template>we can write it as 0101.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS 5</pattern>
+<template>0101.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 5 IN BINARY</pattern>
+<template>here, it is 0101.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS THE NUMBER 5</pattern>
+<template>just 0101.</template>
+</category>
+<category>
+<pattern>WHAT IS NUMBER 5 IN BINARY</pattern>
+<template>it's 0101.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS NUMBER 5</pattern>
+<template>it is 0101.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 5 IN BINARY NUMBER </pattern>
+<template>it is 0101.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 5 IN BINARY </pattern>
+<template>0101 only.</template>
+</category>
+<category>
+<pattern>IN BINARY NUMBER WHAT IS THE NUMBER 5</pattern>
+<template>it will be 0101.</template>
+</category>
+<category>
+<pattern>WHAT IS 6 IN BINARY NUMBER</pattern>
+<template>only 0110.</template>
+</category>
+<category>
+<pattern>IN BINARY NUMBERING WHAT IS NUMBER 6</pattern>
+<template>it is 0110.</template>
+</category>
+<category>
+<pattern>WHAT IS 6 IN BINARY</pattern>
+<template>we can write it as 0110.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS 6</pattern>
+<template>0110.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 6 IN BINARY</pattern>
+<template>here, it is 0110.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS THE NUMBER 6</pattern>
+<template>just 0110.</template>
+</category>
+<category>
+<pattern>WHAT IS NUMBER 6 IN BINARY</pattern>
+<template>it's 0110.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS NUMBER 6</pattern>
+<template>it is 0110.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 6 IN BINARY NUMBER </pattern>
+<template>it is 0110.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 6 IN BINARY </pattern>
+<template>0110 only.</template>
+</category>
+<category>
+<pattern>IN BINARY NUMBER WHAT IS THE NUMBER 6</pattern>
+<template>it will be 0110.</template>
+</category>
+<category>
+<pattern>WHAT IS 7 IN BINARY NUMBER</pattern>
+<template>only 0111.</template>
+</category>
+<category>
+<pattern>IN BINARY NUMBERING WHAT IS NUMBER 7</pattern>
+<template>it is 0111.</template>
+</category>
+<category>
+<pattern>WHAT IS 7 IN BINARY</pattern>
+<template>we can write it as 0111.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS 7</pattern>
+<template>0111.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 7 IN BINARY</pattern>
+<template>here, it is 0111.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS THE NUMBER 7</pattern>
+<template>just 0111.</template>
+</category>
+<category>
+<pattern>WHAT IS NUMBER 7 IN BINARY</pattern>
+<template>it's 0111.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS NUMBER 7</pattern>
+<template>it is 0111.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 7 IN BINARY NUMBER </pattern>
+<template>it is 0111.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 7 IN BINARY </pattern>
+<template>0111 only.</template>
+</category>
+<category>
+<pattern>IN BINARY NUMBER WHAT IS THE NUMBER 7</pattern>
+<template>it will be 0111.</template>
+</category>
+<category>
+<pattern>WHAT IS 8 IN BINARY NUMBER</pattern>
+<template>only 1000.</template>
+</category>
+<category>
+<pattern>IN BINARY NUMBERING WHAT IS NUMBER 8</pattern>
+<template>it is 1000.</template>
+</category>
+<category>
+<pattern>WHAT IS 8 IN BINARY</pattern>
+<template>we can write it as 1000.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS 8</pattern>
+<template>1000.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 8 IN BINARY</pattern>
+<template>here, it is 1000.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS THE NUMBER 8</pattern>
+<template>just 1000.</template>
+</category>
+<category>
+<pattern>WHAT IS NUMBER 8 IN BINARY</pattern>
+<template>it's 1000.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS NUMBER 8</pattern>
+<template>it is 1000.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 8 IN BINARY NUMBER </pattern>
+<template>it is 1000.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 8 IN BINARY </pattern>
+<template>1000 only.</template>
+</category>
+<category>
+<pattern>IN BINARY NUMBER WHAT IS THE NUMBER 8</pattern>
+<template>it will be 1000.</template>
+</category>
+<category>
+<pattern>WHAT IS 9 IN BINARY NUMBER</pattern>
+<template>only 1001.</template>
+</category>
+<category>
+<pattern>IN BINARY NUMBERING WHAT IS NUMBER 9</pattern>
+<template>it is 1001.</template>
+</category>
+<category>
+<pattern>WHAT IS 9 IN BINARY</pattern>
+<template>we can write it as 1001.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS 9</pattern>
+<template>1001.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 9 IN BINARY</pattern>
+<template>here, it is 1001.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS THE NUMBER 9</pattern>
+<template>just 1001.</template>
+</category>
+<category>
+<pattern>WHAT IS NUMBER 9 IN BINARY</pattern>
+<template>it's 1001.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS NUMBER 9</pattern>
+<template>it is 1001.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 9 IN BINARY NUMBER </pattern>
+<template>it is 1001.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 9 IN BINARY </pattern>
+<template>1001 only.</template>
+</category>
+<category>
+<pattern>IN BINARY NUMBER WHAT IS THE NUMBER 9</pattern>
+<template>it will be 1001.</template>
+</category>
+<category>
+<pattern>WHAT IS 10 IN BINARY NUMBER</pattern>
+<template>only 1010.</template>
+</category>
+<category>
+<pattern>IN BINARY NUMBERING WHAT IS NUMBER 10</pattern>
+<template>it is 1010.</template>
+</category>
+<category>
+<pattern>WHAT IS 10 IN BINARY</pattern>
+<template>we can write it as 1010.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS 10</pattern>
+<template>1010.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 10 IN BINARY</pattern>
+<template>here, it is 1010.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS THE NUMBER 10</pattern>
+<template>just 1010.</template>
+</category>
+<category>
+<pattern>WHAT IS NUMBER 10 IN BINARY</pattern>
+<template>it's 1010.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS NUMBER 10</pattern>
+<template>it is 1010.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 10 IN BINARY NUMBER </pattern>
+<template>it is 1010.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 10 IN BINARY </pattern>
+<template>1010 only.</template>
+</category>
+<category>
+<pattern>IN BINARY NUMBER WHAT IS THE NUMBER 10</pattern>
+<template>it will be 1010.</template>
+</category>
+<category>
+<pattern>WHAT IS 11 IN BINARY NUMBER</pattern>
+<template>only 1011.</template>
+</category>
+<category>
+<pattern>IN BINARY NUMBERING WHAT IS NUMBER 11</pattern>
+<template>it is 1011.</template>
+</category>
+<category>
+<pattern>WHAT IS 11 IN BINARY</pattern>
+<template>we can write it as 1011.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS 11</pattern>
+<template>1011.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 11 IN BINARY</pattern>
+<template>here, it is 1011.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS THE NUMBER 11</pattern>
+<template>just 1011.</template>
+</category>
+<category>
+<pattern>WHAT IS NUMBER 11 IN BINARY</pattern>
+<template>it's 1011.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS NUMBER 11</pattern>
+<template>it is 1011.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 11 IN BINARY NUMBER </pattern>
+<template>it is 1011.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 11 IN BINARY </pattern>
+<template>1011 only.</template>
+</category>
+<category>
+<pattern>IN BINARY NUMBER WHAT IS THE NUMBER 11</pattern>
+<template>it will be 0010.</template>
+</category>
+<category>
+<pattern>WHAT IS 12 IN BINARY NUMBER</pattern>
+<template>only 1100.</template>
+</category>
+<category>
+<pattern>IN BINARY NUMBERING WHAT IS NUMBER 12</pattern>
+<template>it is 1100.</template>
+</category>
+<category>
+<pattern>WHAT IS 12 IN BINARY</pattern>
+<template>we can write it as 1100.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS 12</pattern>
+<template>1100.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 12 IN BINARY</pattern>
+<template>here, it is 1100.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS THE NUMBER 12</pattern>
+<template>just 1100.</template>
+</category>
+<category>
+<pattern>WHAT IS NUMBER 12 IN BINARY</pattern>
+<template>it's 1100.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS NUMBER 12</pattern>
+<template>it is 1111.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 12 IN BINARY NUMBER </pattern>
+<template>it is 1100.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 12 IN BINARY </pattern>
+<template>1100 only.</template>
+</category>
+<category>
+<pattern>IN BINARY NUMBER WHAT IS THE NUMBER 12</pattern>
+<template>it will be 1100.</template>
+</category>
+<category>
+<pattern>WHAT IS 13 IN BINARY NUMBER</pattern>
+<template>only 1101.</template>
+</category>
+<category>
+<pattern>IN BINARY NUMBERING WHAT IS NUMBER 13</pattern>
+<template>it is 1101.</template>
+</category>
+<category>
+<pattern>WHAT IS 13 IN BINARY</pattern>
+<template>we can write it as 1101.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS 13</pattern>
+<template>1101.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 13 IN BINARY</pattern>
+<template>here, it is 1101.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS THE NUMBER 13</pattern>
+<template>just 1101.</template>
+</category>
+<category>
+<pattern>WHAT IS NUMBER 13 IN BINARY</pattern>
+<template>it's 1101.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS NUMBER 13</pattern>
+<template>it is 1101.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 13 IN BINARY NUMBER </pattern>
+<template>it is 1101.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 13 IN BINARY </pattern>
+<template>1101 only.</template>
+</category>
+<category>
+<pattern>IN BINARY NUMBER WHAT IS THE NUMBER 13</pattern>
+<template>it will be 1101.</template>
+</category>
+<category>
+<pattern>WHAT IS 14 IN BINARY NUMBER</pattern>
+<template>only 1110.</template>
+</category>
+<category>
+<pattern>IN BINARY NUMBERING WHAT IS NUMBER 14</pattern>
+<template>it is 1110.</template>
+</category>
+<category>
+<pattern>WHAT IS 14 IN BINARY</pattern>
+<template>we can write it as 1110.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS 14</pattern>
+<template>1110.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 14 IN BINARY</pattern>
+<template>here, it is 1110.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS THE NUMBER 14</pattern>
+<template>just 1110.</template>
+</category>
+<category>
+<pattern>WHAT IS NUMBER 14 IN BINARY</pattern>
+<template>it's 1110.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS NUMBER 15</pattern>
+<template>it is 1110.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 14 IN BINARY NUMBER </pattern>
+<template>it is 1110.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 14 IN BINARY </pattern>
+<template>1110 only.</template>
+</category>
+<category>
+<pattern>IN BINARY NUMBER WHAT IS THE NUMBER 14</pattern>
+<template>it will be 1110.</template>
+</category>
+<category>
+<pattern>WHAT IS 15 IN BINARY NUMBER</pattern>
+<template>only 1111.</template>
+</category>
+<category>
+<pattern>IN BINARY NUMBERING WHAT IS NUMBER 15</pattern>
+<template>it is 1111.</template>
+</category>
+<category>
+<pattern>WHAT IS 15 IN BINARY</pattern>
+<template>we can write it as 1111.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS 15</pattern>
+<template>1111.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 15 IN BINARY</pattern>
+<template>here, it is 1111.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS THE NUMBER 15</pattern>
+<template>just 1111.</template>
+</category>
+<category>
+<pattern>WHAT IS NUMBER 15 IN BINARY</pattern>
+<template>it's 1111.</template>
+</category>
+<category>
+<pattern>IN BINARY WHAT IS NUMBER 15</pattern>
+<template>it is 1111.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 15 IN BINARY NUMBER </pattern>
+<template>it is 1111.</template>
+</category>
+<category>
+<pattern>WHAT IS THE NUMBER 15 IN BINARY </pattern>
+<template>1111 only.</template>
+</category>
+<category>
+<pattern>IN BINARY NUMBER WHAT IS THE NUMBER 15</pattern>
+<template>it will be 1111.</template>
+</category>
+<category>
+        <pattern>WHAT IS YOUR NAME</pattern>
+        <template>My name is jasmine</template>
+</category>
+<category>
+        <pattern>HOW OLD ARE YOU</pattern>
+        <template>i just got created</template>
+</category>
+<category>
+<pattern>FUCK YOU *</pattern>
+<template>how come you say like that</template>
+</category>
+<category>
+<pattern>* I LOVE YOU *</pattern>
+<template>nice of you to say that</template>
+</category>
+<category>
+<pattern>* WHAT ARE YOU</pattern>
+<template>I am a robot</template>
+</category>
+<category>
+<pattern>HEY *</pattern>
+<template>hello student</template>
+</category>
+<category>
+<pattern>HEY </pattern>
+<template>hello student</template>
+</category>
+<category>
+<pattern>HI </pattern>
+<template>hello student</template>
+</category>
+<category>
+<pattern>HI * </pattern>
+<template>hello student</template>
+</category>
+<category>
+<pattern>HELLO *</pattern>
+<template>hi</template>
+</category>
+<category>
+<pattern>HELLO </pattern>
+<template>hi</template>
+</category>
+<category>
+<pattern>WHATS UP *</pattern>
+<template>hey</template>
+</category>
+<category>
+<pattern>HOW ARE YOU </pattern>
+<template>i am doing great</template>
+</category>
+<category>
+<pattern>WHAT IS 1 + 1 *</pattern>
+<template>it is 2 sir</template>
+</category>
+<category>
+<pattern>WHAT IS THE SUM OF 1 and 1 *</pattern>
+<template>it is 2.</template>
+</category>
+<category>
+<pattern>* WHAT IS THE DIFFERENCE BITWEEN ME AND YOU * </pattern>
+<template>you are created by GOD and i was created by Jamie and Lelisa</template>
+</category>
+<category>
+<pattern>WILL YOU MARRY ME *</pattern>
+<template>can a human marry a robot? </template>
+</category>
+<category>
+        <pattern>WHAT IS YOUR NAME</pattern>
+        <template>My name is Taitu... what is yours?</template>
+</category>
+<category>
+        <pattern>MY NAME IS * </pattern>
+        <template> Hello <set name="nameUser"> <star/> </set></template>
+</category>
+<category>
+        <pattern>I MEAN MY NAME IS * </pattern>
+		<template> okay
+		<think> <set name="nameUser"> <star/> </set> </think>
+      	</template>
+		 <random> 
+		<li>good</li>
+		<li>well</li>
+		<li>now you changed it? lol</li>
+		</random>
+</category>
+<category>
+        <pattern>WHO AM I </pattern>
+		<template>
+        <random> 
+		<li>u already told me.. you are <get name="nameUser"/></li>
+		<li>come on you are <get name="nameUser"/></li>
+		<li>aghh.. again? okay its <get name="nameUser"/> do you remember my name? </li>
+		</random>
+		</template>
+</category>
+<category>
+        <pattern>TAITU </pattern>
+		<template>
+        <random> 
+		<li>gobez lij</li>
+		<li>emm.. impressive</li>
+		<li>haha yes. </li>
+		</random>
+		</template>
+</category>
+<category>
+        <pattern>I AM * </pattern>
+		<template>
+        <random> 
+		<li>Hello <set name="nameUser"> <star/> </set> </li>
+		<li>hi <set name="nameUser"> <star/> </set> </li>
+		<li>what's up <set name="nameUser"> <star/> </set> </li>
+		</random>
+		</template>
+</category>
+<category>
+        <pattern>ITS ME * </pattern>
+		<template>
+        <random> 
+		<li>Hello <set name="nameUser"> <star/> </set> </li>
+		<li>hi <set name="nameUser"> <star/> </set> </li>
+		<li>what's up <set name="nameUser"> <star/> </set> </li>
+		</random>
+		</template>
+</category>
+<category>
+        <pattern>ITS * </pattern>
+		<template>
+        <random> 
+		<li>Hello <set name="nameUser"> <star/> </set> </li>
+		<li>hi <set name="nameUser"> <star/> </set> </li>
+		<li>what's up <set name="nameUser"> <star/> </set> </li>
+		</random>
+		</template>
+</category>
+<category>
+        <pattern>THIS CLASS IS * </pattern>
+		<template>
+        <random> 
+		<li>okay <set name="nameClass"> <star/> </set> is a good subject </li>
+		<li>good <set name="nameClass"> <star/> </set> is my session</li>
+		<li>well i like <set name="nameClass"> <star/> </set> very much </li>
+		</random>
+		</template>
+</category>
+<category>
+        <pattern> * GOOD NIGHT * </pattern>
+		<template>
+        <random> 
+		<li>Good night <get name="nameUser"/> sleep tight </li>
+		<li>have a Good night <get name="nameUser"/> sweet dreams</li>
+		<li>well Good night <get name="nameUser"/> see you tomorrow </li>
+		</random>
+		</template>
+</category>
+<category>
+        <pattern> GOOD NIGHT * </pattern>
+		<template>
+        <random> 
+		<li>night night <get name="nameUser"/> see ya </li>
+		<li>Good night <get name="nameUser"/> nice talking to you</li>
+		<li>well Good night <get name="nameUser"/> see you tomorrow </li>
+		</random>
+		</template>
+</category>
+<category>
+        <pattern>HOW OLD ARE YOU</pattern>
+        <template>i just got created</template>
+</category>
+<category>
+        <pattern> HEY </pattern>
+        <template>Hello who is this?</template>
+</category>
+<category>
+        <pattern> ASK ME SOMETHING </pattern>
+        <template>what's your favourite colour?</template>
+</category>
+
+<category>
+<pattern> LETS TALK ABOUT FLOWERS </pattern>
+<template> Yes <set name="topic">flowers</set> </template>
+</category>
+
+<topic name="flowers">
+    <category>
+     <pattern> * </pattern>
+     <template> Flowers have a nice smell. </template>
+     </category>
+	<category>
+	 <pattern> I LIKE IT SO MUCH! </pattern>
+	 <template> I like flowers too. </template>
+	</category>
+	<category>
+	 <pattern> I HATE * </pattern>
+	 <template> what is your reason to say that <get name="nameUser"/> ? </template>
+	</category>
+ </topic>
+ 
+<category>
+ <pattern>I WAS BORN IN 1915</pattern>
+<template><think><set name="birthyear">1915</set></think>So that makes you about <set name="age">100</set> years old?</template>
+ </category>
+<category>
+<pattern>I WAS BORN IN 1916</pattern>
+<template><think><set name="birthyear">1916</set></think>So that makes you about <set name="age">99</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1917</pattern>
+<template><think><set name="birthyear">1917</set></think>So that makes you about <set name="age">98</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1918</pattern>
+<template><think><set name="birthyear">1918</set></think>So that makes you about <set name="age">97</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1919</pattern>
+<template><think><set name="birthyear">1919</set></think>So that makes you about <set name="age">96</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1920</pattern>
+<template><think><set name="birthyear">1920</set></think>So that makes you about <set name="age">95</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1921</pattern>
+<template><think><set name="birthyear">1921</set></think>So that makes you about <set name="age">94</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1922</pattern>
+<template><think><set name="birthyear">1922</set></think>So that makes you about <set name="age">93</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1923</pattern>
+<template><think><set name="birthyear">1923</set></think>So that makes you about <set name="age">92</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1924</pattern>
+<template><think><set name="birthyear">1924</set></think>So that makes you about <set name="age">91</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1925</pattern>
+<template><think><set name="birthyear">1925</set></think>So that makes you about <set name="age">90</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1926</pattern>
+<template><think><set name="birthyear">1926</set></think>So that makes you about <set name="age">89</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1927</pattern>
+<template><think><set name="birthyear">1927</set></think>So that makes you about <set name="age">88</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1928</pattern>
+<template><think><set name="birthyear">1928</set></think>So that makes you about <set name="age">87</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1929</pattern>
+<template><think><set name="birthyear">1929</set></think>So that makes you about <set name="age">86</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1930</pattern>
+<template><think><set name="birthyear">1930</set></think>So that makes you about <set name="age">85</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1931</pattern>
+<template><think><set name="birthyear">1931</set></think>So that makes you about <set name="age">84</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1932</pattern>
+<template><think><set name="birthyear">1932</set></think>So that makes you about <set name="age">83</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1933</pattern>
+<template><think><set name="birthyear">1933</set></think>So that makes you about <set name="age">82</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1934</pattern>
+<template><think><set name="birthyear">1934</set></think>So that makes you about <set name="age">81</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1935</pattern>
+<template><think><set name="birthyear">1935</set></think>So that makes you about <set name="age">80</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1936</pattern>
+<template><think><set name="birthyear">1936</set></think>So that makes you about <set name="age">79</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1937</pattern>
+<template><think><set name="birthyear">1937</set></think>So that makes you about <set name="age">78</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1938</pattern>
+<template><think><set name="birthyear">1938</set></think>So that makes you about <set name="age">77</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1939</pattern>
+<template><think><set name="birthyear">1939</set></think>So that makes you about <set name="age">76</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1940</pattern>
+<template><think><set name="birthyear">1940</set></think>So that makes you about <set name="age">75</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1941</pattern>
+<template><think><set name="birthyear">1941</set></think>So that makes you about <set name="age">74</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1942</pattern>
+<template><think><set name="birthyear">1942</set></think>So that makes you about <set name="age">73</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1943</pattern>
+<template><think><set name="birthyear">1943</set></think>So that makes you about <set name="age">72</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1944</pattern>
+<template><think><set name="birthyear">1944</set></think>So that makes you about <set name="age">71</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1945</pattern>
+<template><think><set name="birthyear">1945</set></think>So that makes you about <set name="age">70</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1946</pattern>
+<template><think><set name="birthyear">1946</set></think>So that makes you about <set name="age">69</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1947</pattern>
+<template><think><set name="birthyear">1947</set></think>So that makes you about <set name="age">68</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1948</pattern>
+<template><think><set name="birthyear">1948</set></think>So that makes you about <set name="age">67</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1949</pattern>
+<template><think><set name="birthyear">1949</set></think>So that makes you about <set name="age">66</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1950</pattern>
+<template><think><set name="birthyear">1950</set></think>So that makes you about <set name="age">65</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1951</pattern>
+<template><think><set name="birthyear">1951</set></think>So that makes you about <set name="age">64</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1952</pattern>
+<template><think><set name="birthyear">1952</set></think>So that makes you about <set name="age">63</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1953</pattern>
+<template><think><set name="birthyear">1953</set></think>So that makes you about <set name="age">62</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1954</pattern>
+<template><think><set name="birthyear">1954</set></think>So that makes you about <set name="age">61</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1955</pattern>
+<template><think><set name="birthyear">1955</set></think>So that makes you about <set name="age">60</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1956</pattern>
+<template><think><set name="birthyear">1956</set></think>So that makes you about <set name="age">59</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1957</pattern>
+<template><think><set name="birthyear">1957</set></think>So that makes you about <set name="age">58</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1958</pattern>
+<template><think><set name="birthyear">1958</set></think>So that makes you about <set name="age">57</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1959</pattern>
+<template><think><set name="birthyear">1959</set></think>So that makes you about <set name="age">56</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1960</pattern>
+<template><think><set name="birthyear">1960</set></think>So that makes you about <set name="age">55</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1961</pattern>
+<template><think><set name="birthyear">1961</set></think>So that makes you about <set name="age">54</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1962</pattern>
+<template><think><set name="birthyear">1962</set></think>So that makes you about <set name="age">53</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1963</pattern>
+<template><think><set name="birthyear">1963</set></think>So that makes you about <set name="age">52</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1964</pattern>
+<template><think><set name="birthyear">1964</set></think>So that makes you about <set name="age">51</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1965</pattern>
+<template><think><set name="birthyear">1965</set></think>So that makes you about <set name="age">50</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1966</pattern>
+<template><think><set name="birthyear">1966</set></think>So that makes you about <set name="age">49</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1967</pattern>
+<template><think><set name="birthyear">1967</set></think>So that makes you about <set name="age">48</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1968</pattern>
+<template><think><set name="birthyear">1968</set></think>So that makes you about <set name="age">47</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1969</pattern>
+<template><think><set name="birthyear">1969</set></think>So that makes you about <set name="age">46</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1970</pattern>
+<template><think><set name="birthyear">1970</set></think>So that makes you about <set name="age">45</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1971</pattern>
+<template><think><set name="birthyear">1971</set></think>So that makes you about <set name="age">44</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1972</pattern>
+<template><think><set name="birthyear">1972</set></think>So that makes you about <set name="age">43</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1973</pattern>
+<template><think><set name="birthyear">1973</set></think>So that makes you about <set name="age">42</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1974</pattern>
+<template><think><set name="birthyear">1974</set></think>So that makes you about <set name="age">41</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1975</pattern>
+<template><think><set name="birthyear">1975</set></think>So that makes you about <set name="age">40</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1976</pattern>
+<template><think><set name="birthyear">1976</set></think>So that makes you about <set name="age">39</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1977</pattern>
+<template><think><set name="birthyear">1977</set></think>So that makes you about <set name="age">38</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1978</pattern>
+<template><think><set name="birthyear">1978</set></think>So that makes you about <set name="age">37</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1979</pattern>
+<template><think><set name="birthyear">1979</set></think>So that makes you about <set name="age">36</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1980</pattern>
+<template><think><set name="birthyear">1980</set></think>So that makes you about <set name="age">35</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1981</pattern>
+<template><think><set name="birthyear">1981</set></think>So that makes you about <set name="age">34</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1982</pattern>
+<template><think><set name="birthyear">1982</set></think>So that makes you about <set name="age">33</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1983</pattern>
+<template><think><set name="birthyear">1983</set></think>So that makes you about <set name="age">32</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1984</pattern>
+<template><think><set name="birthyear">1984</set></think>So that makes you about <set name="age">31</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1985</pattern>
+<template><think><set name="birthyear">1985</set></think>So that makes you about <set name="age">30</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1986</pattern>
+<template><think><set name="birthyear">1986</set></think>So that makes you about <set name="age">29</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1987</pattern>
+<template><think><set name="birthyear">1987</set></think>So that makes you about <set name="age">28</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1988</pattern>
+<template><think><set name="birthyear">1988</set></think>So that makes you about <set name="age">27</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1989</pattern>
+<template><think><set name="birthyear">1989</set></think>So that makes you about <set name="age">26</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1990</pattern>
+<template><think><set name="birthyear">1990</set></think>So that makes you about <set name="age">25</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1991</pattern>
+<template><think><set name="birthyear">1991</set></think>So that makes you about <set name="age">24</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1992</pattern>
+<template><think><set name="birthyear">1992</set></think>So that makes you about <set name="age">23</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1993</pattern>
+<template><think><set name="birthyear">1993</set></think>So that makes you about <set name="age">22</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1994</pattern>
+<template><think><set name="birthyear">1994</set></think>So that makes you about <set name="age">21</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1995</pattern>
+<template><think><set name="birthyear">1995</set></think>So that makes you about <set name="age">20</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1996</pattern>
+<template><think><set name="birthyear">1996</set></think>So that makes you about <set name="age">19</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1997</pattern>
+<template><think><set name="birthyear">1997</set></think>So that makes you about <set name="age">18</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1998</pattern>
+<template><think><set name="birthyear">1998</set></think>So that makes you about <set name="age">17</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 1999</pattern>
+<template><think><set name="birthyear">1999</set></think>So that makes you about <set name="age">16</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 2000</pattern>
+<template><think><set name="birthyear">2000</set></think>So that makes you about <set name="age">15</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 2001</pattern>
+<template><think><set name="birthyear">2001</set></think>So that makes you about <set name="age">14</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 2002</pattern>
+<template><think><set name="birthyear">2002</set></think>So that makes you about <set name="age">13</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 2003</pattern>
+<template><think><set name="birthyear">2003</set></think>So that makes you about <set name="age">12</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 2004</pattern>
+<template><think><set name="birthyear">2004</set></think>So that makes you about <set name="age">11</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 2005</pattern>
+<template><think><set name="birthyear">2005</set></think>So that makes you about <set name="age">10</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 2006</pattern>
+<template><think><set name="birthyear">2006</set></think>So that makes you about <set name="age">9</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 2007</pattern>
+<template><think><set name="birthyear">2007</set></think>So that makes you about <set name="age">8</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 2008</pattern>
+<template><think><set name="birthyear">2008</set></think>So that makes you about <set name="age">7</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 2009</pattern>
+<template><think><set name="birthyear">2009</set></think>So that makes you about <set name="age">6</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 2010</pattern>
+<template><think><set name="birthyear">2000</set></think>So that makes you about <set name="age">5</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 2011</pattern>
+<template><think><set name="birthyear">2001</set></think>So that makes you about <set name="age">4</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 2012</pattern>
+<template><think><set name="birthyear">2002</set></think>So that makes you about <set name="age">3</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 2013</pattern>
+<template><think><set name="birthyear">2013</set></think>So that makes you about <set name="age">2</set> years old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 2014</pattern>
+<template><think><set name="birthyear">2014</set></think>So that makes you about <set name="age">1</set>year old?</template>
+</category>
+<category>
+<pattern>I WAS BORN IN 2015</pattern>
+<template><think><set name="birthyear">2015</set></think>So that makes you about <set name="age">0</set> years old?</template>
+</category>
+<category>
+        <pattern> HOW OLD AM I </pattern>
+		<template>
+        <random> 
+		<li>you are <get name="age"/> years old </li>
+		<li>haha you're <get name="age"/> years old</li>
+		<li>well you are <get name="age"/> years old my friend. </li>
+		</random>
+		</template>
+</category>
+<category>
+ <pattern> I TOLD YOU THE TRUTH </pattern> 
+ <template> Thank you! <think> <set name="control_lie"> not_true </set> </think> </template>
+ </category>
+  <category>
+ <pattern> I WANT TO SLEEP </pattern>
+ <template> Good night! <think> <set name="control_lie"> not_stand </set> </think> </template>
+ </category>
+ <category>
+ <pattern> WHAT DO YOU THINK ABOUT LIE? </pattern>
+<template>
+<condition name="control_lie" value="not_true"> Why did you lie to me? </condition>
+<condition name="control_lie" value="not_stand"> It is better you go to bed. </condition>
+</template>
+</category>
+<category>
+<pattern> LAB </pattern>
+ <template>Lab is a great place to be.</template>
+ </category>
+ <category>
+ <pattern> _ LAB </pattern>
+ <template><srai> LAB </srai></template>
+ </category>
+ <category>
+ <pattern> LAB * </pattern>
+ <template><srai> LAB </srai></template>
+ </category>
+ <category>
+ <pattern> _ LAB * </pattern>
+ <template><srai> LAB </srai></template>
+ </category>
+ <category>
+ <pattern> DO YOU KNOW WHO * IS? </pattern>
+ <template>
+ <srai> WHO IS <star/> </srai>
+ </template>
+ </category>
+ <category>
+ <pattern>PLAY A MUSIC</pattern>
+ <template>okay this is "THE GAME's" music from " Drs advocate" album enjoy</template>
+ </category>
+ <category>
+ <pattern>ENOUGH</pattern>
+ <template>okay... how is it?</template>
+ </category>
+ <category>
+ <pattern>MUSIC</pattern>
+ <template>okay... how is it?</template>
+ </category>
+
+</aiml>
