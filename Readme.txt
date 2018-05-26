@@ -1,5 +1,5 @@
 ----------installation-----
-install python 2.7 or later
+install python 2.7.x
 install pyaiml
 
 + open python console and test 
